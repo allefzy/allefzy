@@ -2,7 +2,7 @@
 
 📢PT - EN - ES - JP
 
-- 🔭 I’m currently searching for job
+- 🔭 I’m currently looking for job
 - 🌱 I’m currently learning Python for Software Engineering, Data Science and Machine Learning | Studying HTML, CSS and Javascript for my website.
 - 📫 How to reach me: eduardoanjospalmerim@gmail.com
 
