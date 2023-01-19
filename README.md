@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black">
 </div>
 
-![Snake animation](https://github.com/allefzy/allefzy/blob/output/snake.svg)  
+![Snake animation](https://github.com/allefzy/allefzy/.github/workflows/snake.yml)  
