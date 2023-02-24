@@ -1,7 +1,7 @@
 ### Hi, I'm Eduardo Allefy 👋
 <sub> Feel comfortable to call me whatever is more easy to you 😉<sub/>
 
-<b> 📢PT - EN - ES - JP <b/>
+<b> 📢 EN - PT - ES - JP <b/>
 
 - 🔭 I’m currently looking for job
 - 🌱 I’m currently learning Python for Software Engineering, Data Science and Machine Learning | Studying HTML, CSS and Javascript for my website.
