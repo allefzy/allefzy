@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Python for Software Engineering, Data Science and Machine Learning | Studying HTML, CSS and Javascript for my website.
 - 📫 How to reach me: eduardoanjospalmerim@gmail.com
 
+ <sub> hey, if the image below does not shows up, just try refreshing the page. <sub/>
 <div>
   <a href="https://www.linkedin.com/in/eduardoallefy" target="_blank" rel="noopener noreferrer">
   <img height="180cm" src="https://github-readme-stats-allefzy.vercel.app/api?username=allefzy&show_icons=true&theme=react&include_all_commits=true&count_private=true"&pat_1=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""/>
