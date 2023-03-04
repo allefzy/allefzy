@@ -1,13 +1,16 @@
 ### Hi, I'm Eduardo Allefy 👋
 <sub> Feel comfortable to call me whatever is more easy to you 😉</sub>
 
-<b> 📢 EN - PT - ES - JP <b/>
+<b> 📢 EN - PT - ES - JP </b>
 
 - 🔭 I’m currently looking for job
 - 🌱 I’m currently learning Python for Software Engineering, Data Science and Machine Learning | Studying HTML, CSS and Javascript for my website.
 - 📫 How to reach me: eduardoanjospalmerim@gmail.com
 
- <details> <sub> 👇 if the image below does not shows up, just try refreshing the page. <sub/> </details>
+<details>
+   <summary> </summary>
+ <sub> 👇 if the image below does not shows up, just try refreshing the page. </sub> 
+</details>
 <div>
   <a href="https://www.linkedin.com/in/eduardoallefy" target="_blank" rel="noopener noreferrer">
   <img height="180cm" src="https://github-readme-stats-allefzy.vercel.app/api?username=allefzy&show_icons=true&theme=react&include_all_commits=true&count_private=true"&pat_1=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""/>
