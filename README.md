@@ -13,8 +13,8 @@
 </details>
 <div>
   <a href="https://www.linkedin.com/in/eduardoallefy" target="_blank" rel="noopener noreferrer">
-  <img height="180cm" src="https://github-readme-stats-allefzy.vercel.app/api?username=allefzy&show_icons=true&theme=react&include_all_commits=true&count_private=true"&pat_1=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""/>
-  <img height="180cm" src="https://github-readme-stats-allefzy.vercel.app/api/top-langs/?username=allefzy&layout=compact&langs_count=7&theme=react"/>
+  <img height="180cm" src="https://github-readme-stats-woad-seven-70.vercel.app/api?username=allefzy&show_icons=true&theme=react&include_all_commits=true&count_private=true"&pat_1=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""/>
+  <img height="180cm" src="https://github-readme-stats-woad-seven-70.vercel.app/api/top-langs/?username=allefzy&layout=compact&langs_count=7&theme=react"/>
 <div>
 
 <div style="display: inline_block"><br>
