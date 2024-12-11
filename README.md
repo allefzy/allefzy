@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for job
 - 🌱 I’m currently learning Python for Software Engineering, Data Science and Machine Learning | Studying HTML, CSS and Javascript for my website.
-- 📫 How to reach me: eduardoanjospalmerim@gmail.com
+- 📫 How to reach me: eduardo.palmerim25@gmail.com
 
 <details>
    <summary> </summary>
